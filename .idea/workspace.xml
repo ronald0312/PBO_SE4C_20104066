@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41437c43-72e3-48c2-a7bf-16a1706eadb3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/percobaan/Cat.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/percobaan/Animal.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/percobaan/Bird.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1zOp6DoqB1uBsJhvmWaKHEbDvkL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Zoo">
+    <configuration name="Bank2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="percobaan.Bank2" />
+      <module name="PBO_SE4C_20104066" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="percobaan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="School" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="percobaan.School" />
+      <module name="PBO_SE4C_20104066" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="percobaan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentRecordExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="latihan.StudentRecordExample" />
+      <module name="PBO_SE4C_20104066" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="latihan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesLatihan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="latihan.TesLatihan" />
+      <module name="PBO_SE4C_20104066" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="latihan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="percobaan.Zoo" />
+      <module name="PBO_SE4C_20104066" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="percobaan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Zoo" />
+        <item itemvalue="Application.TesLatihan" />
+        <item itemvalue="Application.School" />
+        <item itemvalue="Application.StudentRecordExample" />
+        <item itemvalue="Application.Bank2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41437c43-72e3-48c2-a7bf-16a1706eadb3" name="Default Changelist" comment="" />
+      <created>1634028812106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634028812106</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="707" y="38" key="#com.intellij.ide.util.MemberChooser" timestamp="1636448439321">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="707" y="38" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1636448439321" />
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1636446961535">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1636446961535" />
+    <state width="597" height="476" key="GridCell.Tab.0.bottom" timestamp="1636450438643">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="597" height="476" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1636450438643" />
+    <state width="597" height="476" key="GridCell.Tab.0.center" timestamp="1636450438643">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="597" height="476" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1636450438643" />
+    <state width="597" height="476" key="GridCell.Tab.0.left" timestamp="1636450438642">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="597" height="476" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1636450438642" />
+    <state width="597" height="476" key="GridCell.Tab.0.right" timestamp="1636450438643">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="597" height="476" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1636450438643" />
+    <state x="582" y="1" key="search.everywhere.popup" timestamp="1635239148850">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="582" y="1" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1635239148850" />
+  </component>
+</project>
